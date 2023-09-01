@@ -1,8 +1,8 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
+1. Friend's Name : Chris
+2. Adjective : delicious
+3. Adjective : wide
+4. Color : blue
+5. Month : November
 6. Number
 7. Noun (Plural)
 8. Noun (Plural)
