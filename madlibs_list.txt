@@ -12,7 +12,7 @@
 12. fun
 13. metal
 14. hiking
-15. slowly
+15. slowly 
 16. Number
 17. Unit of Time
 18. Different Activity
