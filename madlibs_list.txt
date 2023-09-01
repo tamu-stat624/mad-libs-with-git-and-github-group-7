@@ -8,11 +8,11 @@
 8. Noun (Plural)
 9. Noun
 10. Room Name
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+11. Mercury 
+12. fun
+13. metal
+14. hiking
+15. slowly
 16. Number
 17. Unit of Time
 18. Different Activity
