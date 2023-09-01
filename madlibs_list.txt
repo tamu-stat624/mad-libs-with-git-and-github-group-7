@@ -3,11 +3,11 @@
 3. Adjective : wide
 4. Color : blue
 5. Month : November
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. 9999
+7. snakes
+8. plants
+9. Dogs
+10. 123
 11. Mercury
 12. fun
 13. metal
