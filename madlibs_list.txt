@@ -1,21 +1,21 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-9999
-snakes
-plants
-Dogs
-123
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+1. Friend's Name : Chris
+2. Adjective : delicious
+3. Adjective : wide
+4. Color : blue
+5. Month : November
+6. 9999
+7. snakes
+8. plants
+9. Dogs
+10. 123
+11. Mercury
+12. fun
+13. metal
+14. hiking
+15. slowly
+16. 10
+17. years
+18. riding
+19. colorful
+20. unicorn
+21. Chris
